@@ -1,2 +1,4 @@
-Hola, soy duvan rojas
+Hola, soy Duvan Rojas
 Esta es una prueba sobre GIT.
+Estamos aprendiendo sobre como utilizar GIT y GITHub.
+Ha sido algo basatante interesante hasta el momento.
