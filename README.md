@@ -10,6 +10,7 @@ En este curso estamos aprendiendo todo lo importante sobre Git y GitHub.
 	- Como utilziar GitHub
 
 Creado por el increible Platzi Team, incluye ejemplos en Windows, Linux y MAC.
+Disponible para todas las edades.
 ------------
 
 
