@@ -9,7 +9,6 @@ En este curso estamos aprendiendo todo lo importante sobre Git y GitHub.
 	- Comandos de Git
 	- Como utilziar GitHub
 
-Creado por el increible Platzi Team
 Creado por el increible Platzi Team, incluye ejemplos en Windows, Linux y MAC.
 Disponible para todas las edades.
 ------------
